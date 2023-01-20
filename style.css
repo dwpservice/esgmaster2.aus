@@ -1,0 +1,259 @@
+
+
+body {
+    margin: 0;
+    background-color: #babcbf;
+    left:auto;
+    right:auto;
+   
+    font-family: 'Inter', sans-serif;
+}
+.flex-container {
+    height: 100vh;
+    width: 95%;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    
+    flex-flow: row nowrap; 
+    justify-content:space-between;
+    justify-items: center;
+    border-radius: 5px 5px 5px 5px;
+    
+    
+    background-color: #babcbf;
+  }
+  .flex-container > div{
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+}
+
+.logoleedcontainer {
+    background-color: white;
+    border-radius: 5px 5px 5px 5px;
+    
+    
+    padding: 15px;
+    font-size: 13px;
+    
+    display: flex;
+    width: 77.5%;
+    justify-content:baseline;
+    
+    flex-flow: row nowrap; 
+    justify-content:left;
+    justify-items:left; 
+    margin-left: auto;
+    margin-right: auto;
+    
+  }
+  .logoleedcontainer > div{
+        
+    align-items:flex-start;
+  }
+  .boy2 {
+     
+    background-color: white;
+    border-radius: 0px 0px 5px 5px;
+    
+    margin-bottom: 20px;
+    padding: 15px;
+    font-size: 13px;
+    
+    
+    
+    
+}    
+
+.boy {
+     
+    background-color: white;
+    border-radius: 5px 5px 5px 5px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    padding: 15px;
+    font-size: 13px;
+    
+    height:max-content; 
+    
+    
+}  
+.boy1 {
+     
+    background-color: white;
+    border-radius: 0px 0px 5px 5px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    padding: 15px;
+    font-size: 13px;
+    
+    height:max-content; 
+    
+    
+}  
+
+
+
+.MySubmitButton {
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    padding: 15px;
+}
+.dwp {
+    font-family: 'Arial', Courier, monospace;
+    font-size: 16px;
+    font-weight: 300;
+    padding-left: 5px;
+}
+.appbar {
+    background-color: black !important;
+}
+.Mylist{
+    list-style-type:none;    
+}
+.MyMsgFrame {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left: 15px;
+    margin-right: 15px;
+    width:auto;
+    
+    background-color: white !important;
+}
+.MuiCheckbox-colorSecondary.Mui-checked.myGreen {
+    color: #096418 !important;
+}
+.myCenter {
+    text-align: center;
+}
+.myButton {
+    margin-left: 10px;
+    margin-bottom: 20px;
+    width: 120px;
+    padding: 5px 5px 5px 5px;
+    border-radius: 25px;
+}
+.myButton1 {
+    margin-left: 10px;
+    margin-bottom: 20px;
+    width:200px;
+    padding: 5px 5px 5px 5px;
+    border-radius: 25px;
+}
+.MuiToolbar-root.MuiToolbar-regular.MuiToolbar-gutters {
+    padding-left: 4px;
+}
+[id='score-Smart Location'],
+[id='score-Imperiled Species and Ecological Communities'],
+[id='score-Wetland and Water Body Conservation'],
+[id='score-Agricultural Land Conservation'],
+[id='score-Floodplain Avoidance'],
+[id='score-Preferred Locations'],
+[id='score-Brownfield Remediation'],
+[id='score-Access to Quality Transit'],
+[id='score-Bicycle Facilities'],
+[id='score-Housing and Jobs Proximity'],
+[id='score-Steep Slope Protection'],
+[id='score-Site Design for Habitat or Wetland and Water Body Conservation'],
+[id='score-Restoration of Habitat or Wetlands and Water Bodies'],
+[id='score-Long-Term Conservation Management of Habitat or Wetlands and Water Bodies'],
+[id='score-Walkable Streets'],
+[id='score-Compact Development'],
+[id='score-Connected and Open Community'],
+[id='score-Walkable Streets (option)'],
+[id='score-Compact Development (option)'],
+[id='score-Mixed-Use Neighborhoods'],
+[id='score-Housing Types and Affordability'],
+[id='score-Reduced Parking Footprint'],
+[id='score-Connected and Open Community (option)'],
+[id='score-Transit Facilities'],
+[id='score-Transportation Demand Management'],
+[id='score-Access to Civic & Public Space'],
+[id='score-Access to Recreation Facilities'],
+[id='score-Visitability and Universal Design'],
+[id='score-Community Outreach and Involvement'],
+[id='score-Local Food Production'],
+[id='score-Tree-Lined and Shaded Streetscapes'],
+[id='score-Neighborhood Schools'],
+[id='score-Certified Green Building'],
+[id='score-Minimum Building Energy Performance'],
+[id='score-Indoor Water Use Reduction (option)'],
+[id='score-Construction Activity Pollution Prevention'],
+[id='score-Certified Green Buildings'],
+[id='score-Optimize Building Energy Performance'],
+[id='score-Indoor Water Use Reduction'],
+[id='score-Outdoor Water Use Reduction'],
+[id='score-Building Reuse'],
+[id='score-Historic Resource Preservation and Adaptive Reuse'],
+[id='score-Minimized Site Disturbance'],
+[id='score-Rainwater Management'],
+[id='score-Heat Island Reduction'],
+[id='score-Solar Orientation'],
+[id='score-Renewable Energy Production'],
+[id='score-District Heating and Cooling'],
+[id='score-Infrastructure Energy Efficiency'],
+[id='score-Wastewater Management'],
+[id='score-Recycled and Reused Infrastructure'],
+[id='score-Solid Waste Management'],
+[id='score-Light Pollution Reduction'],
+[id='score-Innovation'],
+[id='score-LEED Accredited Professional'],
+[id='score-Regional Priority: Specific -1'],
+[id='score-Regional Priority: Specific -2'],
+[id='score-Regional Priority: Specific -3'],
+[id='score-Regional Priority: Specific -4'] {
+    text-align: center;
+}
+
+.scorecontainer {
+    height: 10vh;   
+    width: 1176px; 
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    flex-direction: column;
+    flex-wrap:nowrap;  
+    background-color: #b6b6b6;
+    position: relative;
+  }
+  
+
+
+#showtotal  {
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #000000;
+    
+    
+    padding: 3px 40px 3px 40px;
+    
+    font-family: arial;
+    font-size: 22px;
+    font-weight:lighter;
+   
+    
+    
+  }
+  .MuiFormControlLabel-root.MuiFormControlLabel-labelPlacementTop {
+    margin: 0px;
+    margin-bottom: 10px;
+  }
+  .labelcontainer {
+    height: 8vh;   
+    width: 1176px; 
+    display: flex;
+    justify-content:center;
+    align-items:flex-start;
+    flex-direction: column;
+    flex-wrap:nowrap;  
+    background-color: white;
+    
+  }
+  

@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/esgmaster2.aus/static/js/main.17954198.chunk.js",
+    "runtime-main.js": "/esgmaster2.aus/static/js/runtime-main.8971d84d.js",
+    "static/css/2.d04b44c7.chunk.css": "/esgmaster2.aus/static/css/2.d04b44c7.chunk.css",
+    "static/js/2.5e29ad77.chunk.js": "/esgmaster2.aus/static/js/2.5e29ad77.chunk.js",
+    "index.html": "/esgmaster2.aus/index.html",
+    "static/js/2.5e29ad77.chunk.js.LICENSE.txt": "/esgmaster2.aus/static/js/2.5e29ad77.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/esgmaster2.aus/static/media/roboto-vietnamese-400-normal.3230f9b0.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8971d84d.js",
+    "static/css/2.d04b44c7.chunk.css",
+    "static/js/2.5e29ad77.chunk.js",
+    "static/js/main.17954198.chunk.js"
+  ]
+}
